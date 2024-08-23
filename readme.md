@@ -4,4 +4,4 @@
 **I AM NOT THE ORIGINAL CREATOR OF VEN**
 
 # Differences
-**Ven Reborn is more clean which it also has more functionality
+**Ven Reborn is more clean and it also has more functionality**
